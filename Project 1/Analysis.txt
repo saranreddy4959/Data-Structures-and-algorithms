@@ -1,0 +1,38 @@
+
+Name:Saran Kumar Reddy Padala
+
+
+Task0.py:
+
+In this as we just print the data present in files so we use two for loops to represent the data in the given format.
+
+So, the worst case Big O Notaion is : O(7)
+
+In this there are no loops just single lines of code present which runs only once 
+
+
+Task1.py:
+
+In this task we are removing the duplicates for the telephone records so to remove duplicated value we use set as it removes them.
+
+Big O notation is : O(6n+13)
+
+As, there are 2 four for loops in each for loop there are 2 lines each runs only once  and n is the input given by the user and remaining it does 13 times which run only once 
+
+
+Task2.py:
+
+Big O notation: O(5n+9)
+
+As, we have one for loop and in the for loop it has 4 conditions so all of this combined we get 5 and n is the number of input and last 9 is the code which runs only once and there are no loops present.
+
+
+Task3.py:
+Big O notation:O(n)
+
+Since we are sorting the values the worst case scenario is depend on the input 
+
+Task4.py:
+Big O notation: O(n)
+
+Similarly here also we are doing the sort so this is the worst case.
